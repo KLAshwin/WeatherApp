@@ -1,0 +1,4 @@
+https://youtu.be/ICE0qyyi0ow
+https://openweathermap.org/weather-conditions
+https://cors-anywhere.herokuapp.com/
+https://freesvg.org/color-weather-forecast-icon-for-snow-vector-image
